@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **any python project that needs an extra hand**
 <p align="center">
-  <img src="assets/ziro00.png" alt="tryhackme" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/ziro00.png" alt="assets/ziro00.png" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
