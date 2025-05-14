@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leo</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=84F70C&width=435&lines=Cybersecurity+enthusiast;CS+student;Python+lover+%3C3;CTF+player;" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=84F70C&width=435&lines=Cybersecurity+enthusiast;CS+student;CTF+player;" alt="Typing SVG" /></a>
 </p>
 
 - 🔭 I’m currently working on **improving my knowledge**
